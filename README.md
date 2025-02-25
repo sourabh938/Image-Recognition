@@ -1,4 +1,3 @@
-# Image-Recognition
 # Machine Learning Image Recognition Examples
 
 This project demonstrates practical applications of machine learning for image recognition, including general object recognition and face recognition.
